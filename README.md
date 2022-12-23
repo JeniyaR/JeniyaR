@@ -4,15 +4,7 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
-## Latest Youtube Videos
 
-<!-- YOUTUBE:START -->
-- [РАЗРАБОТЧИК ПРОТИВ &lpar;ЗА&rpar; ТЕСТИРОВЩИКА с @m0rtymerr](https://www.youtube.com/watch?v=EuLzxYEg-SA)
-- [QA Advent календарь для тестировщика. 31 задача на каждый день!](https://www.youtube.com/watch?v=hCI7fdJyP9Q)
-- [Можно &lpar;СЛОЖНО&rpar; ли стать тестировщиком &lpar;QA Engineer&rpar; в 2023?](https://www.youtube.com/watch?v=upFAjlpLACw)
-- [ТЕСТИРОВАНИЕ САЙТА НА ПРИМЕРЕ SKILLBOX. ОБЗОР КУРСОВ ДЛЯ ТЕСТИРОВЩИКОВ](https://www.youtube.com/watch?v=R6ZPordIelY)
-- [Курс Тестировщик с нуля - как эффективно пройти?](https://www.youtube.com/watch?v=g6hbLHEtdfo)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
