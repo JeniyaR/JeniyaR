@@ -24,7 +24,7 @@
 - [Test-Suites and Test-Cases](https://github.com/JeniyaR/Test-Suites-and-Test-Cases.git)
 - [Bug-Reports](https://github.com/JeniyaR/Bug-reports.git)
 - [SQL Queries](https://github.com/JeniyaR/SQL-Queries.git)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/JeniyaR/Postman-collection.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
