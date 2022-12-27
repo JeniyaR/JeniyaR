@@ -23,7 +23,7 @@
 - [Checklists](https://github.com/JeniyaR/Checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/JeniyaR/Test-Suites-and-Test-Cases.git)
 - [Bug-Reports](https://github.com/JeniyaR/Bug-reports.git)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [SQL Queries](https://github.com/JeniyaR/SQL-Queries.git)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
