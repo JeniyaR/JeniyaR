@@ -1,7 +1,7 @@
 ![Header](https://github.com/JeniyaR/picture/blob/main/2022-12-27_22-40-26.png)
 ## I'm a QA Engineer.
 ## My CV
-[Link to my CV](https://drive.google.com/drive/folders/137xiCsAOzL0KmeV4Bp1nHBs8EoNPYzHy?usp=sharing)
+[Link to my CV](https://docs.google.com/document/d/1OJtcipW900UuOjPSYg6B2vdsDlOi43Nr/edit#heading=h.17dp8vu)
 
 
 
