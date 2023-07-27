@@ -25,6 +25,6 @@
 - [Bug-Reports](https://github.com/JeniyaR/Bug-reports.git)
 - [SQL Queries](https://github.com/JeniyaR/SQL-Queries.git)
 - [Postman Collections](https://www.postman.com/zheniar/workspace/petstore-workspace/collection/22346249-a80d33b3-9b6d-4340-aea4-19596448d22f?action=share&creator=22346249)
-- .[Literature]_(https://github.com/JeniyaR/Literature)_
+- .[Literature](https://github.com/JeniyaR/Literature)_
 
 
